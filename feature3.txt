@@ -1,0 +1,3 @@
+Hello Guys ye meri reset ki practise hai
+
+dev-3 insert the changes of dev -1 in master 
